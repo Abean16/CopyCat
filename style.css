@@ -199,7 +199,8 @@
 @media only screen 
     and (width: 430px) 
     and (height: 932px) 
-    and (-webkit-device-pixel-ratio: 3) { 
+    /* and (-webkit-device-pixel-ratio: 3) */
+    { 
         #usernameOrEmailText {
             color: red;
         }
