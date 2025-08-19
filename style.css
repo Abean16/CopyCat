@@ -194,3 +194,13 @@
 .bottom a:hover{
     text-decoration: underline;
 }
+
+/* for iphone 15 pro and 15 pro max */
+@media only screen 
+    and (width: 430px) 
+    and (height: 932px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+        #usernameOrEmailText {
+            color: red;
+        }
+    }
