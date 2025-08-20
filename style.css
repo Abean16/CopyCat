@@ -204,14 +204,14 @@
         .textbox{
             width: 80%;
             height: 40px;
-            border-width: .5px;
+            border-width: .10px;
         }
         .bttn, .bttn2{
             width: 80%;
             height: 50px;
         }
         .label1, .label2{
-            margin-right: 30%
+            margin-right: 35%
         }
         .navbar ul{
             list-style-type: none;
