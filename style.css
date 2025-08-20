@@ -212,6 +212,10 @@
         }
         .label1, .label2{
             margin-right: 10%
-            font-size: 100%;
+        }
+        .navbar ul{
+            position: fixed;
+            bottom: 0%;
+            width: 100%;
         }
     }
