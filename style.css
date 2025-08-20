@@ -94,12 +94,12 @@
 
 
 .label1{
-    margin-right: 13%;
+    margin-right: 11.5%;
     font-size: 90%;
 }
 
 .label2{
-    margin-right: 12.5%;
+    margin-right: 10.5%;
     font-size: 90%;
 }
 
@@ -211,7 +211,7 @@
             height: 50px;
         }
         .label1, .label2{
-            margin-right: 0%;
+            margin-right: 10%
             font-size: 100%;
         }
     }
