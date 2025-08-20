@@ -211,13 +211,12 @@
             height: 50px;
         }
         .label1, .label2{
-            margin-right: 20%
+            margin-right: 30%
         }
         .navbar ul{
             list-style-type: none;
             margin: 0;
             padding: 0;
-            width: 200px;
             position: fixed;
         }
         .body{
